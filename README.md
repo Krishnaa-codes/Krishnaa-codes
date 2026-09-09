@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Krishna Kumar**
+# Hey, I'm **Krishna Kumar**
 
 ### `Backend Developer` · `AI/ML Explorer` · `Data Science Learner`
 
